@@ -4,31 +4,31 @@ Answer the following questions. First, without external resources. Challenge you
 
 1. What is object destructuring?
 
-  Your answer:
+  Your answer: yhou can take data from arrays, object, and nested object and assign them specific variables.
 
-  Researched answer:
+  Researched answer: object destructuring can extract multiple properties in one statement, can access properties from nested objects, and can set a default value if the property doesn't exist.
 
 
 
 2. What is a DOM event?
 
-  Your answer:
+  Your answer: im not sure what a DOM event is but I know an event is when everytime the page loads.
 
-  Researched answer:
+  Researched answer:  DOM event allows JavaScript to register different event handlers on elements in an HTML document.
 
 
 
 3. What is the difference between a class and an object?
 
-  Your answer:
+  Your answer: a class is is the blueprint which contains object inside of it
 
-  Researched answer:
+  Researched answer: A class is a blueprint or prototype that defines the variables and the methods (functions) common to all objects of a certain kind. An object is a specimen of a class. Software objects are often used to model real-world objects you find in everyday life.
 
 
 
 4. What is the difference between a HTML div and a span?
 
-  Your answer:
+  Your answer: a <div> is used as a container to hold html elements im not to sure what span is.
 
   Researched answer:
 
@@ -38,20 +38,20 @@ Answer the following questions. First, without external resources. Challenge you
 
   Your answer:
 
-  Researched answer:
+  Researched answer:he <span> element shows the inline portion of a document. The <div> elements show a block-level portion of a document.
 
 
 
 6. What are three options for creating responsive design?
 
-  Your answer:
+  Your answer: I'm sorry I dont have an aswer to that
 
-  Researched answer:
+  Researched answer: flexible layouts, media queries, flexible media.
 
 
 
 ## Looking Ahead: Terms for Next Week
-- Object oriented programming
+- Object oriented programming:
 - irb
 - Instance variable
 - Ruby
